@@ -9,6 +9,7 @@ Salt, Hash, and Encryption.
 
 
 Classes:
+
 =FTPManager
 Handles sending an order and its products to an FTP server, for the end client to process.
 
