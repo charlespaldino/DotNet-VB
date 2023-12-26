@@ -1,7 +1,6 @@
 ﻿Imports System.IO
 Imports System.Net
 Imports System.Text
-Imports Microsoft.VisualBasic
 
 ''' <summary>
 ''' This is sample code, assumes PurchaseOrder and Product classes exist.

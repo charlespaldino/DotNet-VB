@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-
+﻿
 ''' <summary>
 ''' This is sample code, assumes various objects exist.
 ''' </summary>
