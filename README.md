@@ -2,10 +2,15 @@
 Code repo for .Net VB related code samples
 
 Skills Demonstrated:
+
 .Net VB
+
 FTP, CSV
+
 FILE IO
+
 Salt, Hash, and Encryption.
+
 Reflection
 
 Classes:
